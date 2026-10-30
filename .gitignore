@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Local env / secrets
+.env
+.env.*
+wokwi_token
+
+# OS/editor
+.DS_Store
+*.swp
+*.swo
